@@ -1,2 +1,1 @@
-## Diễn Đàn Hỗ Trợ Và Xử Lý Bug: # Danh sách các phần mềm sẽ dùng khi cài đặt ECHBAY-VPSSIM
-### Tách ra để lúc clone git nó đỡ nặng, vì mấy phần mềm này thường đã có sẵn trên server, chỉ các phiên bản server đời thấp quá mới không có, lcus cài đặt sẽ kiểm tra nếu thấp mới cài lại.
+## Các phần mềm cần sử dụng khi cài đặt script KDATA
