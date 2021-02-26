@@ -1,1 +1,1 @@
-## Các phần mềm cần sử dụng khi cài đặt script KDATA
+## Các phần mềm cần sử dụng khi cài đặt script KLEMP
