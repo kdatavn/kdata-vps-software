@@ -1,1 +1,1 @@
-## Các phần mềm cần sử dụng khi cài đặt script KLEMP
+## Các phần mềm cần sử dụng khi cài đặt script KPANEL
